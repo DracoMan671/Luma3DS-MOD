@@ -40,3 +40,7 @@ This software is licensed under the terms of the GPLv3.
 You can find a copy of the license in the LICENSE.txt file.
 
 You can also use all of `sysmodules/rosalina/include/gdb/`, all of `sysmodules/rosalina/source/gdb/`, `sysmodules/rosalina/include/gdb.h`, `sysmodules/rosalina/source/gdb.c`, `sysmodules/rosalina/include/sock_util.h` and `sysmodules/rosalina/source/sock_util.c` under the terms of the GPLv2, as an option. If you choose to do so, you needn't include the GPLv3 notices that are present in the beginning of each of these files.
+
+
+
+credit for this mod goes to aurorawright for luma3ds, nanquitas for the plugin loaders and kasai07 for the cia installer.
